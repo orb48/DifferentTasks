@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdditionNumbersTypeString/AdditionNumbersTypeString.iml" filepath="$PROJECT_DIR$/AdditionNumbersTypeString/AdditionNumbersTypeString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdditionStrings/AdditionStrings.iml" filepath="$PROJECT_DIR$/AdditionStrings/AdditionStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/DifferentTasks.iml" filepath="$PROJECT_DIR$/DifferentTasks.iml" />
     </modules>
   </component>
